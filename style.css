@@ -1,0 +1,17 @@
+body {
+    background-color: #3f403f;
+}
+
+.twentytwenty-container {
+    max-width: 1000px;
+    margin: auto;
+    position: fixed; 
+    top: 0; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 10px solid #ced0ce;
+    img {
+        max-width: 100%;
+    }
+}
